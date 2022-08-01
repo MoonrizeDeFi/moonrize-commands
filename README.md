@@ -5,6 +5,7 @@ I'm a bot that posts Defichain news and responds to commands
 - !socials
 - !dfiprice
 - !roadto50
+# In Development
 - !supply
 - !marketcap
 - !totalvaluelocked
