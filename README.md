@@ -1,6 +1,6 @@
 I'm a bot that posts Defichain news and responds to commands
 
-# Moonrize Commands
+# Moonrize Bot Commands
 - !links
 - !socials
 - !dfiprice
@@ -9,8 +9,5 @@ I'm a bot that posts Defichain news and responds to commands
 - !marketcap
 - !totalvaluelocked
 
-### In Development
-- more to come
-
 # Feedback
-Feel free to submit an issue with an idea for a new command or feedback
+Feel free to submit an issue with an idea for a new command or feedback!
